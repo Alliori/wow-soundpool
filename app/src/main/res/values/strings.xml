@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SoundBox WoW</string>
+    <string name="alexstrasza">Alexstrasza</string>
+    <string name="thrall">Thrall</string>
+    <string name="guldan">Guldan</string>
+    <string name="archimonde">Archimonde</string>
+    <string name="kiljaeden" tools:ignore="StringEscaping">Kil'Jaeden</string>
+    <string name="sylvanas">Sylvanas</string>
+    <string name="malfurion">Malfurion</string>
+    <string name="illidan">Illidan</string>
+    <string name="kelthuzad" tools:ignore="StringEscaping">Kel'Thuzad</string>
+    <string name="khadgar">Khadgar</string>
+    <string name="gallywix">Gallywix</string>
+    <string name="lady_vashj">Lady Vashj</string>
+    <string name="lichking">Lich King</string>
+    <string name="mogu">Mogu</string>
+    <string name="genn">Genn</string>
+    <string name="cthun" tools:ignore="StringEscaping">C'Thun</string>
+    <string name="velen">Velen</string>
+    <string name="cho">Cho</string>
+    <string name="varian">Varian</string>
+    <string name="deathwing">Deathwing</string>
+    <string name="arthas">Arthas</string>
+    <string name="chen">Chen</string>
+    <string name="tirion">Tirion</string>
+    <string name="voljin" tools:ignore="StringEscaping">Vol'jin</string>
+    <string name="nathanos">Nathanos</string>
+    <string name="ragnaros">Ragnaros</string>
+    <string name="garrosh">Garrosh</string>
+    <string name="kael_thas" tools:ignore="StringEscaping">Kael'thas</string>
+    <string name="jaina">Jaina</string>
+    <string name="grom">Grommash</string>
+    <string name="akama">Akama</string>
+    <string name="anduin">Anduin</string>
+    <string name="tauren">Gamon</string>
+    <string name="shaofpride">Sha of Pride</string>
+    <string name="title_activity_wall">WallActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sounds">Sounds</string>
+    <string name="alliance_music">Alliance Music</string>
+    <string name="horde_music">Horde Music</string>
+</resources>
